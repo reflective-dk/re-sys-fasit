@@ -1,0 +1,12 @@
+---
+id: 33b4e744-fc99-47b2-a5f6-0cf7595ecc53
+registrations:
+  - validity:
+      - input:
+          auxiliaryType: checkbox
+          class: { id: 1938d89b-a935-412d-a23c-02709fe63c0c, name: System Access }
+          name: Sagsbehandler (Anden Aktør)
+          category: role
+          system: { id: 3ee8cbd2-70a9-40be-8d31-0a1242b3f308, name: Hjertekøbing Fasit }
+        from: 2005-01-01T00:00:00.000Z
+...

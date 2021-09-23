@@ -1,0 +1,44 @@
+---
+id: 273b9357-c68c-4231-a663-db4d2a95d4bd
+registrations:
+  - validity:
+      - input:
+          class: { id: a882353e-8b1b-4649-a759-ccf95b9c1fe3, name: System Access Profile }
+          name: Fasit Grundprofil
+          description: Grundprofil med alle adgange
+          system: { id: 3ee8cbd2-70a9-40be-8d31-0a1242b3f308, name: Fasit }
+          category: system-access
+          published: false
+          accesses:
+            600b3da0-dfe5-4a0c-9cd0-2e86feedba84:
+              id: 600b3da0-dfe5-4a0c-9cd0-2e86feedba84
+              name: Schultz Fasit
+            7a028b20-6f67-4f10-9a9a-135d769fb289:
+              id: 7a028b20-6f67-4f10-9a9a-135d769fb289
+              name: Administrator
+            3bc93161-6c87-40ab-9f1f-e810dabd39ea:
+              id: 3bc93161-6c87-40ab-9f1f-e810dabd39ea
+              name: Læseadgang
+            da2495e9-fb97-4216-940a-4a5f5ec0aa5a:
+              id: da2495e9-fb97-4216-940a-4a5f5ec0aa5a
+              name: Leder
+            e68ef9a0-749d-40c4-9963-d881fdf5c7bc:
+              id: e68ef9a0-749d-40c4-9963-d881fdf5c7bc
+              name: Sagsbehandler
+            33b4e744-fc99-47b2-a5f6-0cf7595ecc53:
+              id: 33b4e744-fc99-47b2-a5f6-0cf7595ecc53
+              name: Sagsbehandler (Anden Aktør)
+            db07563e-72a4-42ec-a785-668ade78fa53:
+              id: db07563e-72a4-42ec-a785-668ade78fa53
+              name: Superbruger
+            e46d934d-9f88-414b-a565-de8eb446731f:
+              id: e46d934d-9f88-414b-a565-de8eb446731f
+              name: Virksomhedskonsulent
+            e5d94167-a8e7-444d-91c4-f13929bec443:
+              id: e5d94167-a8e7-444d-91c4-f13929bec443
+              name: Angiv afdeling
+            d10cb69d-3928-465d-b3c0-0c26f5291011:
+              id: d10cb69d-3928-465d-b3c0-0c26f5291011
+              name: Angiv teams
+        from: 2005-01-01T00:00:00.000Z
+...
